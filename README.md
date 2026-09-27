@@ -12,7 +12,7 @@
 - 🌱 正在学习 C/C++、Python、HTML、JS、CSS
 - 📫 联系方式：lang_qi@outlook.com
 - 来自中国
-- 兽迷（Furry）
+- 我是只福瑞！
 
 <!---
 lang-q/lang-q 是一个 ✨特别✨ 的仓库，这个 README.md 文件会展示在你的 GitHub 个人主页。
