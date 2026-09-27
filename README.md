@@ -1,10 +1,20 @@
 - 👋 Hi, I’m @lang-q
 - 👀 I’m interested in code
-- 🌱 I’m currently learning C/C++, python ,html, js ,css
-- 📫 How to reach me lang_qi@outlook.com
+- 🌱 I’m currently learning C/C++, Python, HTML, JS, CSS
+- 📫 How to reach me: lang_qi@outlook.com
 - I'm Chinese
 - I'm a furry
+
+---
+
+- 👋 你好，我是 @lang-q
+- 👀 爱好代码
+- 🌱 正在学习 C/C++、Python、HTML、JS、CSS
+- 📫 联系方式：lang_qi@outlook.com
+- 来自中国
+- 兽迷（Furry）
+
 <!---
-lang-q/lang-q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+lang-q/lang-q 是一个 ✨特别✨ 的仓库，这个 README.md 文件会展示在你的 GitHub 个人主页。
+你可以点击预览链接查看修改后的效果。
 --->
